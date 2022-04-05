@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/SSD.UI.Tests/obj/Debug
+/SSD.UI.Tests/obj
 /packages
 /.vs
 /SSD.UI.Tests/bin/Debug
