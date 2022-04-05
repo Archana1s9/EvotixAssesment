@@ -7,6 +7,7 @@ Steps :
 5. After Test execution completion basic HTML report and Screen shots can be found here :
   
      ..\SSD.UI.Tests\bin\Debug\netcoreapp3.1\HtmlReports
+     
      ..\SSD.UI.Tests\bin\Debug\netcoreapp3.1\CaptureScreenShots
      
      
