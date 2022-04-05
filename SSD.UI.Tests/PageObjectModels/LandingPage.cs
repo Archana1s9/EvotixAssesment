@@ -1,13 +1,13 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
-using PDMS.UI.Tests.Core;
+using SSD.UI.Tests.Core;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace PDMS.UI.Tests.PageObjectModels
+namespace SSD.UI.Tests.PageObjectModels
 {
    
     public class LandingPage 

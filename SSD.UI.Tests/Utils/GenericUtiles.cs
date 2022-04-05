@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.Utils
+namespace SSD.UI.Tests.Utils
 {
     public class GenericUtils
     {

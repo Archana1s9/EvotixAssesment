@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.Models
+namespace SSD.UI.Tests.Models
 {
     public class EnvironmentLandContamination
     {

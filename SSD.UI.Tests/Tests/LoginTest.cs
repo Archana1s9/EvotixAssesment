@@ -1,16 +1,16 @@
 ﻿
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
-using PDMS.UI.Tests.Core;
-using PDMS.UI.Tests.Enums;
-using PDMS.UI.Tests.PageObjectModels;
+using SSD.UI.Tests.Core;
+using SSD.UI.Tests.Enums;
+using SSD.UI.Tests.PageObjectModels;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Reflection;
 using System.Text;
 
-namespace PDMS.UI.Tests.Tests
+namespace SSD.UI.Tests.Tests
 {
    
         /*public void LoginSuccessfully()

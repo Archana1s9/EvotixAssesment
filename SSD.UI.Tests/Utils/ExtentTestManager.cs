@@ -7,7 +7,7 @@ using System.Configuration;
 using System.Text;
 using System.Threading;
 
-namespace PDMS.UI.Tests.Utils
+namespace SSD.UI.Tests.Utils
 {
 
 	public class ExtentTestManager

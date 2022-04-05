@@ -1,14 +1,14 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
-using PDMS.UI.Tests.Core;
-using PDMS.UI.Tests.Models;
+using SSD.UI.Tests.Core;
+using SSD.UI.Tests.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
-using static PDMS.UI.Tests.Models.EnvironmentLandContamination;
+using static SSD.UI.Tests.Models.EnvironmentLandContamination;
 
-namespace PDMS.UI.Tests.PageObjectModels
+namespace SSD.UI.Tests.PageObjectModels
 {
     public class EnvironmentLandContaminationPage : LandingPage
     {

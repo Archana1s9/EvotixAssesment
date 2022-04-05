@@ -1,13 +1,13 @@
 ﻿using NUnit.Framework;
-using PDMS.UI.Tests.Models;
-using PDMS.UI.Tests.PageObjectModels;
-using PDMS.UI.Tests.Utils;
+using SSD.UI.Tests.Models;
+using SSD.UI.Tests.PageObjectModels;
+using SSD.UI.Tests.Utils;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using static PDMS.UI.Tests.Models.EnvironmentLandContamination;
+using static SSD.UI.Tests.Models.EnvironmentLandContamination;
 
-namespace PDMS.UI.Tests.Tests
+namespace SSD.UI.Tests.Tests
 {
     [TestFixture, Order(1)]
     public class EnvironmentLandContaminationTest : BaseTest

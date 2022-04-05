@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.Enums
+namespace SSD.UI.Tests.Enums
 {
     public enum Browser: int
     {

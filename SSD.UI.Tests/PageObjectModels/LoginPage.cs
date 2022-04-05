@@ -1,12 +1,12 @@
 ﻿using OpenQA.Selenium;
-using PDMS.UI.Tests.Core;
+using SSD.UI.Tests.Core;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Text;
 using System.Threading;
 
-namespace PDMS.UI.Tests.PageObjectModels
+namespace SSD.UI.Tests.PageObjectModels
 {
     public class LoginPage: LandingPage
     {

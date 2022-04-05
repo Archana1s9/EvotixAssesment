@@ -4,7 +4,7 @@ using AventStack.ExtentReports.Reporter.Configuration;
 using NUnit.Framework;
 using System;
 
-namespace PDMS.UI.Tests.Utils
+namespace SSD.UI.Tests.Utils
 {
 
 	public class ExtentService

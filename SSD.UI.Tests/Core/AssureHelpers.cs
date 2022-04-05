@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.Events;
 using OpenQA.Selenium.Support.UI;
-using PDMS.UI.Tests.Enums;
+using SSD.UI.Tests.Enums;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace PDMS.UI.Tests.Core
+namespace SSD.UI.Tests.Core
 {
     public class MeridianHelpers : IAssureWeb
     {
@@ -418,7 +418,7 @@ namespace PDMS.UI.Tests.Core
                         break;
                     case "DateTime":
                         var dateValue = (DateTime)value;
-                        result = $"PDMS.Utils.Date({dateValue.Year},{dateValue.Month - 1},{dateValue.Day})";
+                        result = $"SSD.Utils.Date({dateValue.Year},{dateValue.Month - 1},{dateValue.Day})";
                         break;
                     case "String":
                     case "Char":

@@ -1,16 +1,16 @@
 ﻿using NPOI.SS.UserModel;
 using NUnit.Framework;
-using PDMS.UI.Tests.Models;
-using PDMS.UI.Tests.Tests;
+using SSD.UI.Tests.Models;
+using SSD.UI.Tests.Tests;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
-using static PDMS.UI.Tests.Models.EnvironmentLandContamination;
+using static SSD.UI.Tests.Models.EnvironmentLandContamination;
 
-namespace PDMS.UI.Tests.Utils
+namespace SSD.UI.Tests.Utils
 {
     public partial class InputReader
     {

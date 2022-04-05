@@ -2,12 +2,12 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
-using PDMS.UI.Tests.Enums;
+using SSD.UI.Tests.Enums;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.Core
+namespace SSD.UI.Tests.Core
 {
     public class WebDriverFactory
     {

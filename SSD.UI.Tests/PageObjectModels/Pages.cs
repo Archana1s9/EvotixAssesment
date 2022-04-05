@@ -1,13 +1,13 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
-using PDMS.UI.Tests.Core;
-using PDMS.UI.Tests.Enums;
-using PDMS.UI.Tests.Tests;
+using SSD.UI.Tests.Core;
+using SSD.UI.Tests.Enums;
+using SSD.UI.Tests.Tests;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.PageObjectModels
+namespace SSD.UI.Tests.PageObjectModels
 {
     internal class Pages : BaseTest
     {

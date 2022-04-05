@@ -3,14 +3,14 @@ using AventStack.ExtentReports.Reporter;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
-using PDMS.UI.Tests.Core;
-using PDMS.UI.Tests.PageObjectModels;
-using PDMS.UI.Tests.Utils;
+using SSD.UI.Tests.Core;
+using SSD.UI.Tests.PageObjectModels;
+using SSD.UI.Tests.Utils;
 using System;
 using System.IO;
 using System.Threading;
 
-namespace PDMS.UI.Tests.Tests
+namespace SSD.UI.Tests.Tests
 {
     public class BaseTest : ExtentTestManager
     {

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PDMS.UI.Tests.Core
+namespace SSD.UI.Tests.Core
 {
     public interface IAssureWeb
     {
